@@ -4,5 +4,6 @@ public class Class {
 		
 		System.out.println("Say what test");
 		
+		System.out.println("edit");
 	}
 }
